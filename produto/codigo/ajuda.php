@@ -1,6 +1,6 @@
 <?php
 	include 'includes/config.php';
-	$page_title = 'Home';
+	$page_title = 'Ajuda';
 	$usuario = 'Administrador';
 ?>
 
@@ -10,6 +10,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html"; charset="utf-8"/>
 		<link href="css/style.css" ficheiros.zip type="text/css" rel="stylesheet"/>
+		<script type="text/javascript" src="../scripts/scriptAjuda.js"></script>
 		<title>
 			<?php include 'includes/config.php'; echo "$APP_TITLE";?>
 		</title>
@@ -21,10 +22,43 @@
 			<div id="header" class="header"><?php include 'includes/header.php';?></div>
 			<?php include 'includes/menubar.php';?>
 			<div id="cabecalho"><?php include 'includes/cabecalho.php';?></div>
-			<div id="menu"><?php include 'includes/menu.php';?></div>
+			
 			<div id="content" class="content">
-				<!--<h1><a id="link" href=""></h1>-->
-		
+				
+				<div id="tituloFuncionamento"  onclick="mostraConteudo('funcionamentoContent')"> Funcionamento</div>
+					<div class="conteudoAjuda" id="funcionamentoContent" >
+						 <H2> Funcionamento Geral do Sistema</H2>
+						<p>
+							O SGP é um sistema de gerenciamento de conteúdo com possilidade de Cadastrar,Editar,Consultar e Excluir produtos.<br>
+							Para isso, seus usuário devem possuir cadastro no sistema, uma vez que a somente usuários cadastrados podem ter  <br>
+							acessá-lo. Ao logar no sistema o usuário é redirecionado para a tela de Cadastro, nela é possível realizar todas  <br>
+							 as atividades citadas acima .
+						</p>
+
+					</div>
+ 				<div id="tituloLogin " onclick="mostraConteudo('loginContent')"> Login </div>
+	 				<div class="conteudoAjuda" id="loginContent">
+	 					<h2> Login </h2>
+	 					<p>
+	 						funcionamento do login 
+	 					</p>
+	 				</div>
+	 			<div id="tituloCadastro" onclick="mostraConteudo('cadastroContent')"> Cadastro</div>	
+	 			    <div class="conteudoAjuda" id="cadastroContent">
+	 			    	<h2> Cadastro</h2>
+	 			    	<p>
+							teste de conteudo 
+							Cadastro
+						</p>
+	 			    </div>
+	 			 <div id="tituloConsulta" onclick="mostraConteudo('consultaContent')"> Consulta</div>	
+	 			    <div class="conteudoAjuda" id="consultaContent">
+	 			    	<h2> Consulta </h2>
+	 			    	<p>
+							teste de conteudo 
+							consulta
+						</p>
+	 			    </div>   
 			</div>
 			<br style="clear:both"/>
 			<div id="footer" class="footer"><?php include 'includes/footer.php'; ?></div>
