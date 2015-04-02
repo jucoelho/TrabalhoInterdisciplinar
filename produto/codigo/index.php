@@ -32,7 +32,7 @@
 					<input id="name" name="username" placeholder="login" type="text">
 					<label>Senha :</label>
 					<input id="password" name="password" placeholder="**********" type="password">
-					<input class="loginbutton"  type="buton" value=" Entrar " onclick="validaLogin()" >
+					<button class="loginbutton" type="button"  value=" Entrar" onclick="validaLogin()" >Entrar</button>
 					<span id="mensagem"></span>
 					</form>
 				</div>

@@ -36,11 +36,12 @@
 						</p>
 
 					</div>
- 				<div id="tituloLogin " onclick="mostraConteudo('loginContent')"> Login </div>
+ 				<div id="tituloLogin" onclick="mostraConteudo('loginContent')"> Login </div>
 	 				<div class="conteudoAjuda" id="loginContent">
 	 					<h2> Login </h2>
 	 					<p>
-	 						funcionamento do login 
+	 						Na tela de login o usuário deverá preencher todos os campos do formulário para acessar o sistema.Caso algum campo <br>
+	 						seja deixado em branco, o sistema exibi uma mensagem e o acesso ao sistema não é realizado.
 	 					</p>
 	 				</div>
 	 			<div id="tituloCadastro" onclick="mostraConteudo('cadastroContent')"> Cadastro</div>	
@@ -55,8 +56,7 @@
 	 			    <div class="conteudoAjuda" id="consultaContent">
 	 			    	<h2> Consulta </h2>
 	 			    	<p>
-							teste de conteudo 
-							consulta
+							Na tela de consulta o usuário poderar consultar todos os produtos cadastrados no sistema
 						</p>
 	 			    </div>   
 			</div>
