@@ -23,7 +23,7 @@
 			<?php include 'includes/menubar.php';?>
 			<div id="cabecalho"><?php include 'includes/cabecalho.php';?></div>
 			<div id="content" class="content">
-				<p  id="labelCadastro" onclick="buscaCadastro()">
+				<p  class="padraobutton" id="labelCadastro" onclick="buscaCadastro()">
 					Adicionar
 				</p>
 				<div id="cadastroContent"></div>

@@ -25,7 +25,7 @@
 			
 			<div id="content" class="content">
 				
-				<div id="tituloFuncionamento"  onclick="mostraConteudo('funcionamentoContent')"> Funcionamento</div>
+				<div class="padraobutton" id="tituloFuncionamento"  onclick="mostraConteudo('funcionamentoContent')"> Funcionamento</div>
 					<div class="conteudoAjuda" id="funcionamentoContent" >
 						 <H2> Funcionamento Geral do Sistema</H2>
 						<p>
@@ -36,7 +36,7 @@
 						</p>
 
 					</div>
- 				<div id="tituloLogin" onclick="mostraConteudo('loginContent')"> Login </div>
+ 				<div class="padraobutton" id="tituloLogin" onclick="mostraConteudo('loginContent')"> Login </div>
 	 				<div class="conteudoAjuda" id="loginContent">
 	 					<h2> Login </h2>
 	 					<p>
@@ -44,7 +44,7 @@
 	 						seja deixado em branco, o sistema exibi uma mensagem e o acesso ao sistema não é realizado.
 	 					</p>
 	 				</div>
-	 			<div id="tituloCadastro" onclick="mostraConteudo('cadastroAjudaContent')"> Cadastro</div>	
+	 			<div class="padraobutton" id="tituloCadastro" onclick="mostraConteudo('cadastroAjudaContent')"> Cadastro</div>	
 	 			    <div class="conteudoAjuda" id="cadastroAjudaContent" >
 	 			    	<h2> Cadastro</h2>
 	 			    	<p>
@@ -58,7 +58,7 @@
 							que o cadastro seja efetuado.
 						</p>
 	 			    </div>
-	 			 <div id="tituloConsulta" onclick="mostraConteudo('consultaContent')"> Consulta</div>	
+	 			 <div  class="padraobutton" id="tituloConsulta" onclick="mostraConteudo('consultaContent')"> Consulta</div>	
 	 			    <div class="conteudoAjuda" id="consultaContent">
 	 			    	<h2> Consulta </h2>
 	 			    	<p>
