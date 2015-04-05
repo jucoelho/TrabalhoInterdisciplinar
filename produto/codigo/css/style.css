@@ -304,7 +304,7 @@ input[type=submit] {
 #loginContent{
     display:none;
 }
-#cadastroContent{
+#cadastroAjudaContent{
     display:none;   
 }
 #consultaContent{
@@ -329,4 +329,10 @@ input[type=submit] {
 #formularioCadastro{
     padding: 20px;
     
+}
+#colunaEditar:hover{
+ color: #C0C0C0;
+}
+#colunaExcluir:hover{
+ color: #C0C0C0;
 }

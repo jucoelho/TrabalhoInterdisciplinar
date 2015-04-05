@@ -44,12 +44,18 @@
 	 						seja deixado em branco, o sistema exibi uma mensagem e o acesso ao sistema não é realizado.
 	 					</p>
 	 				</div>
-	 			<div id="tituloCadastro" onclick="mostraConteudo('cadastroContent')"> Cadastro</div>	
-	 			    <div class="conteudoAjuda" id="cadastroContent">
+	 			<div id="tituloCadastro" onclick="mostraConteudo('cadastroAjudaContent')"> Cadastro</div>	
+	 			    <div class="conteudoAjuda" id="cadastroAjudaContent" >
 	 			    	<h2> Cadastro</h2>
 	 			    	<p>
-							teste de conteudo 
-							Cadastro
+	 			    		Na tela de Cadastro o usuário poderá cadasstrar novos produto. O produtors cadastrados são exibidos em uma tabela, <br>
+							onde é possível editar o produto através da coluna Editar, sendo também possível excluir um produto através da  <br>
+							coluna Excluir. 
+						</p>
+						<h3>Adicionando Novo Produto</h3>
+						<p>
+							Para adicionar um novo produto, o usuário deve clicar no comando Adicionar e uma nova tela é exibida com os campos para<br>
+							que o cadastro seja efetuado.
 						</p>
 	 			    </div>
 	 			 <div id="tituloConsulta" onclick="mostraConteudo('consultaContent')"> Consulta</div>	

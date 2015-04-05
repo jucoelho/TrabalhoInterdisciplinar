@@ -34,7 +34,7 @@
 					  	<th> Descrição</th>
 					  	<th> Preço</th>
 					  	<th> Quantidade</th>
-					  	<th> Editar</th>
+					  	<th > Editar</th>
 					  	<th> Excluir</th>
 					  </tr>
 					  <tbody>
@@ -43,8 +43,8 @@
 					    <td> teste</td>
 					    <td> teste</td>
 					    <td> teste</td>
-					    <td onclick="editar()"> Editar</td>
-					    <td> Excluir</td>
+					    <td onclick="editar()" id="colunaEditar"> Editar</td>
+					    <td id="colunaExcluir"> Excluir</td>
 					  </tr>
 					  </tbody>
 					</table>	

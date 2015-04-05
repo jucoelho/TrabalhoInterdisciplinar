@@ -40,30 +40,20 @@ function validarCadastro(){
 	  	document.getElementById("descricao").style.borderColor="red";
 	  	document.getElementById("preco").style.borderColor="red";
 	  	document.getElementById("quantidade").style.borderColor="red";
-	  	document.getElementById("mensagem").innerHTML="Preencha o(s) campo(s) em vermelho!";
+	  	document.getElementById("mensagem").innerHTML="Preencha o(s) campo(s) em vermelho! ";
 	  	document.getElementById("mensagem").style.color="red";
 	  }
-	  else if(codigo==""&&descricao!=""&&preco!=""&&quantidade!="")
+	  else 
 	  {
+	  	if(codigo=="")
 	  	document.getElementById("codigo").style.borderColor="red";
-	  	document.getElementById("mensagem").innerHTML="Preencha o(s) campo(s) em vermelho!";
-	  	document.getElementById("mensagem").style.color="red";
-	  }
-	  else if (codigo!=""&&descricao==""&&preco!=""&&quantidade!="")
-	  {
+	   if (descricao=="")
 	  	document.getElementById("descricao").style.borderColor="red";
-	  	document.getElementById("mensagem").innerHTML="Preencha o(s) campo(s) em vermelho!";
-	  	document.getElementById("mensagem").style.color="red";
-	  }
-	  else if (codigo!=""&&descricao!=""&&preco==""&&quantidade!="")
-	  {
-	  	document.getElementById("preco").style.borderColor="red";
-	  	document.getElementById("mensagem").innerHTML="Preencha o(s) campo(s) em vermelho!";
-	  	document.getElementById("mensagem").style.color="red";
-	  }
-	  else if (codigo!=""&&descricao!=""&&preco!=""&&quantidade=="")
-	  {
-	  	document.getElementById("quantidade").style.borderColor="red";
+	   if (preco=="")
+	     document.getElementById("preco").style.borderColor="red";
+	  if (quantidade=="")
+		document.getElementById("quantidade").style.borderColor="red";
+	
 	  	document.getElementById("mensagem").innerHTML="Preencha o(s) campo(s) em vermelho!";
 	  	document.getElementById("mensagem").style.color="red";
 	  }
@@ -83,27 +73,17 @@ function validarCadastro(){
 	  	document.getElementById("mensagemEdicao").innerHTML="Preencha o(s) campo(s) em vermelho!";
 	  	document.getElementById("mensagemEdicao").style.color="red";
 	  }
-	  else if(codigo==""&&descricao!=""&&preco!=""&&quantidade!="")
+	  else 
 	  {
+	  	if(codigo=="")
 	  	document.getElementById("codigoEdicao").style.borderColor="red";
-	  	document.getElementById("mensagemEdicao").innerHTML="Preencha o(s) campo(s) em vermelho!";
-	  	document.getElementById("mensagemEdicao").style.color="red";
-	  }
-	  else if (codigo!=""&&descricao==""&&preco!=""&&quantidade!="")
-	  {
+	  if (descricao=="")
 	  	document.getElementById("descricaoEdicao").style.borderColor="red";
-	  	document.getElementById("mensagemEdicao").innerHTML="Preencha o(s) campo(s) em vermelho!";
-	  	document.getElementById("mensagemEdicao").style.color="red";
-	  }
-	  else if (codigo!=""&&descricao!=""&&preco==""&&quantidade!="")
-	  {
+	  if (preco=="")
 	  	document.getElementById("precoEdicao").style.borderColor="red";
-	  	document.getElementById("mensagemEdicao").innerHTML="Preencha o(s) campo(s) em vermelho!";
-	  	document.getElementById("mensagemEdicao").style.color="red";
-	  }
-	  else if (codigo!=""&&descricao!=""&&preco!=""&&quantidade=="")
-	  {
+	   if (quantidade=="")
 	  	document.getElementById("quantidadeEdicao").style.borderColor="red";
+	  
 	  	document.getElementById("mensagemEdicao").innerHTML="Preencha o(s) campo(s) em vermelho!";
 	  	document.getElementById("mensagemEdicao").style.color="red";
 	  }	
