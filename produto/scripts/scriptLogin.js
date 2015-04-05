@@ -22,4 +22,7 @@ function validaLogin(){
                    document.getElementById("mensagem").style.color = "red";
        
                 }
+                else
+                  document.getElementById("formLogin").submit();
+
 }

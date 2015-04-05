@@ -27,7 +27,7 @@
 			<div id="main" align="center">
 				<div id="login">
 					<h2>Login Form</h2>
-					<form  id="formLogin" action="#" method="post"  >
+					<form  id="formLogin" action="relatorio.php" method="post"  >
 					<label>Usuário :</label>
 					<input id="name" name="username" placeholder="login" type="text">
 					<label>Senha :</label>
