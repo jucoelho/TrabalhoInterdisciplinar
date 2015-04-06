@@ -32,7 +32,7 @@
 							O SGP é um sistema de gerenciamento de conteúdo com possilidade de Cadastrar,Editar,Consultar e Excluir produtos.<br>
 							Para isso, seus usuário devem possuir cadastro no sistema, uma vez que a somente usuários cadastrados podem ter  <br>
 							acessá-lo. Ao logar no sistema o usuário é redirecionado para a tela de Cadastro, nela é possível realizar todas  <br>
-							 as atividades citadas acima .
+							 as atividades citadas acima.
 						</p>
 
 					</div>
