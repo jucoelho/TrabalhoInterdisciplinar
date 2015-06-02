@@ -4,13 +4,13 @@
   	<form id='formularioCadastro' action='#'>
      <span id='mensagemEdicao'></span><br>
      <label>Código :</label>
-	 <input id='codigoEdicao'  type='text'>
+	 <input id='codigoEdicao' name='codigoEdicao'  type='text'>
 	 <label>Descrição :</label>
-	 <input id='descricaoEdicao'  type='text'>
+	 <input id='descricaoEdicao'  name='descricaoEdicao'  type='text'>
 	 <label>Preço:</label>
-	 <input id='precoEdicao'  type='text'>
+	 <input id='precoEdicao' name='precoEdicao'  type='text'>
 	 <label>Quantidade:</label>
-	 <input id='quantidadeEdicao'  type='text'>
+	 <input id='quantidadeEdicao' name='quantidadeEdicao'  type='text'>
 	 <button type='button' onclick='validarEditacao()'>Cadastrar</button>
 
     </form>";

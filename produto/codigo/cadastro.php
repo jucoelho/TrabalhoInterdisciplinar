@@ -10,44 +10,26 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html"; charset="utf-8"/>
 		<link href="css/style.css" ficheiros.zip type="text/css" rel="stylesheet"/>
-		<script type="text/javascript" src="../scripts/scriptCadastro.js"></script>
+		<script type="text/javascript" src="../scripts/scriptCadastroProduto.js"></script>
 		<title>
 			<?php include 'includes/config.php'; echo "$APP_TITLE";?>
 		</title>
 	</head>
 
-	<body>
+	<body onload="preencheTabela();">
 		<div id="container">
 			<?php include 'includes/top-bar.php';?>
 			<div id="header" class="header"><?php include 'includes/header.php';?></div>
 			<?php include 'includes/menubar.php';?>
 			<div id="cabecalho"><?php include 'includes/cabecalho.php';?></div>
 			<div id="content" class="content">
-				<p  class="padraobutton" id="labelCadastro" onclick="buscaCadastro()">
-					Adicionar
+				<p  class="padraobutton" id="labelCadastro" >
+				<a href="cadastrar.php">	Adicionar</a>
 				</p>
+				
 				<div id="cadastroContent"></div>
 				<div id="tabelaCadastro">
-					<table >
-					  <tr>
-					  	<th> Código</th>
-					  	<th> Descrição</th>
-					  	<th> Preço</th>
-					  	<th> Quantidade</th>
-					  	<th > Editar</th>
-					  	<th> Excluir</th>
-					  </tr>
-					  <tbody>
-					  <tr>
-					    <td> teste</td>
-					    <td> teste</td>
-					    <td> teste</td>
-					    <td> teste</td>
-					    <td onclick="editar()" id="colunaEditar"> Editar</td>
-					    <td id="colunaExcluir"> Excluir</td>
-					  </tr>
-					  </tbody>
-					</table>	
+						
 				</div>
 			</div>
 			<br style="clear:both"/>

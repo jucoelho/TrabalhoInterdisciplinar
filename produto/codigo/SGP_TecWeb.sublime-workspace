@@ -1,0 +1,925 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"produto"
+			],
+			[
+				"sele",
+				"selectedValue"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"ca",
+				"carai"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"qu",
+				"quantidade"
+			],
+			[
+				"VA",
+				"value"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"da",
+				"dados"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"q",
+				"quantidade"
+			],
+			[
+				"pre",
+				"preco"
+			],
+			[
+				"cod",
+				"codigo"
+			],
+			[
+				"mys",
+				"mysql_error"
+			],
+			[
+				"di",
+				"die"
+			],
+			[
+				"ba",
+				"banco"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"f",
+				"ffffff"
+			],
+			[
+				"Js",
+				"parseJSON"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"usu",
+				"usuario-cadastro"
+			],
+			[
+				"usua",
+				"usuario_model"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"liv",
+				"livros"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"labe",
+				"labelNome"
+			],
+			[
+				"na",
+				"nomeLabel"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"la",
+				"label	Tag"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ar",
+				"artigo"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"cha",
+				"chamhar_page"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"blu",
+				"blur"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"ou",
+				"outro"
+			],
+			[
+				"bc",
+				"bloco1"
+			],
+			[
+				"st",
+				"strcmp"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"po",
+				"post"
+			],
+			[
+				"no",
+				"novoConteudo"
+			],
+			[
+				"id",
+				"idUsu"
+			],
+			[
+				"a",
+				"ajax"
+			],
+			[
+				"tare",
+				"tarefa_model"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"nom",
+				"nomeTag"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"n",
+				"nav"
+			],
+			[
+				"as",
+				"aside"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"pla",
+				"planoDeFundo"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"me",
+				"mensagem"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"usuarioC",
+				"usuarioCadastrar"
+			],
+			[
+				"senhaCa",
+				"senhaCadastrar"
+			],
+			[
+				"usuarioCadas",
+				"usuarioCadastrar"
+			],
+			[
+				"form",
+				"formCadasrar"
+			],
+			[
+				"li",
+				"listaMenu"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"base_",
+				"base_url"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/codigo/model/produto.php",
+			"settings":
+			{
+				"buffer_size": 2331,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/codigo/testes/ProdutoTest.php",
+			"settings":
+			{
+				"buffer_size": 1681,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/scripts/scriptCadastroProduto.js",
+			"settings":
+			{
+				"buffer_size": 4437,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/codigo/editarProduto.php",
+			"settings":
+			{
+				"buffer_size": 2429,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/juarozo/composer.json",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cadastrar.php",
+			"settings":
+			{
+				"buffer_size": 1797,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "relatorio.php",
+			"settings":
+			{
+				"buffer_size": 1739,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/codigo/buscaProdutos.php",
+			"settings":
+			{
+				"buffer_size": 1965,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/scripts/scriptRelatorio.js",
+			"settings":
+			{
+				"buffer_size": 1293,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/juarozo/composer.json",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/scripts/scriptRelatorio.js",
+		"/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/scripts/scriptRelatorio.js",
+		"/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/codigo/relatorio.php",
+		"/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/codigo/cadastro.php",
+		"/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/scripts/scriptCadastro.js",
+		"/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/codigo/excluir.php",
+		"/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/codigo/cadastrar.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/scripts/scriptCadastro.js",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/testes/produto.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/exluir.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/banco/banco.php",
+		"/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/codigo/efetuarCadastro.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/model/produto.php",
+		"/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/codigo/buscaProdutos.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/index.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/logar.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/scripts/scriptLogin.js",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/editar.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/cadastro.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/relatorio.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/editarProduto.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/buscaProdutos.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/cadastrar.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/css/style.css",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/scripts/scriptAjuda.js",
+		"/C/Users/juarozo/Documents/GitHub/TrabalhoInterdisciplinar/produto/codigo/relatorio.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/efetuarCadastro.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/ProjetosDeTestes/task/CodeIgniter/bootstrap/js/novojs.js",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/ajuda.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/teste.html",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/index - Copia.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/includes/login.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/includes/config.php",
+		"/C/Users/juarozo/Downloads/cod.txt",
+		"/F/pagina.html",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/includes/ajuda.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/includes/cabecalho.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/includes/header.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/includes/menu.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/includes/menubar.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/codigo/includes/top-bar.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/ProjetosDeTestes/task/CodeIgniter/application/controllers/usuario.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/ProjetosDeTestes/task/CodeIgniter/application/config/config.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/ProjetosDeTestes/task/CodeIgniter/application/views/principal.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/ProjetosDeTestes/task/CodeIgniter/application/models/usuario_model.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/ProjetosDeTestes/task/CodeIgniter/bootstrap/js/jquey.js",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/projeto.php",
+		"/C/Program Files/Apache Software Foundation/Tomcat 7.0/conf/server.xml",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/ProjetosDeTestes/task/CodeIgniter/application/views/login.php",
+		"/C/Users/juarozo/Desktop/javaWEB/eclipse/http",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/projeto.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 7.0/conf/tomcat-users.xml",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.0/conf/tomcat-users.xml",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/jquery.js",
+		"/C/Users/juarozo/Downloads/books.xml",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/pagina.html",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/books.xml",
+		"/C/Users/juarozo/Desktop/books.xml",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/ProjetosDeTestes/task/CodeIgniter/system/core/Input.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/ProjetosDeTestes/task/CodeIgniter/application/views/home.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/application/views/principal.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/application/models/usuario_model.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/ProjetosDeTestes/task/index.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/bootstrap/js/formulario.js",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/bootstrap/js/novojs.js",
+		"/C/Users/juarozo/Desktop/Tecnologia Web.html",
+		"/C/Users/juarozo/Documents/GitHub/local/teste.txt",
+		"/C/Users/juarozo/Documents/PUC/7º Periodo/Tec Web/index.html",
+		"/C/Users/juarozo/Documents/PUC/7º Periodo/Tec Web/exercicio1_lab_tecLweb.html",
+		"/C/Users/juarozo/Desktop/Tec Web/index.txt",
+		"/C/Users/juarozo/AppData/Local/Temp/avg-6d25ac19-b56a-4a21-8e64-a97f5276496c.tmp.html",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/application/controllers/usuario.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/application/views/login.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/bootstrap/estilo.css",
+		"/C/Users/juarozo/Desktop/exemploScroll.html",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/application/views/home.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/application/bootstrap/js/novojs.js",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/application/bootstrap/estilo.css",
+		"/C/Users/juarozo/Desktop/querys.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/application/config/database.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/PHPmvc/application/config/database.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/PHPmvc/application/views/login.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/index.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/application/config/config.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/application/config/autoload.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/PHPmvc/application/views/login2.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/PHPmvc/application/models/cadastro_model.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/PHPmvc/application/views/modal.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/PHPmvc/application/views/include/header.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/PHPmvc/application/views/imobiliariaHome.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/application/config/autoload.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/PHPmvc/application/config/config.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/PHPmvc/application/views/include/Cadastrar.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/Teste.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/application/controllers/welcome.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/PHPmvc/application/views/imobiliariaMenu.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/application/views/welcome_message.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/.htaccess",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/application/config/routes.php",
+		"/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/task/CodeIgniter/application/controllers/teste.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/PHPmvc/index.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/cakephp-2.4.10/app/Config/database.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/pagina.php",
+		"/C/Users/juarozo/Documents/USBWebserver v8.5/8.5/root/cakephp-2.4.10/app/Config/core.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";",
+			"carai",
+			";",
+			"0",
+			"		\n",
+			"private",
+			"formularioCadastro",
+			";",
+			"	$",
+			"return ",
+			"get_",
+			"private",
+			".$",
+			"	$",
+			"= ",
+			"();\n",
+			"br",
+			"p",
+			"Content",
+			"content",
+			";\n",
+			"#FFFFFF",
+			"usuario",
+			"[i]",
+			"  ",
+			"_clean_input_keys",
+			"Entrar",
+			"updateNome",
+			"});",
+			"footer",
+			"\\",
+			"<?php echo base_url(); ?>",
+			"<?php echo base_url(); ?>/",
+			"C:/Users/juarozo/Documents/",
+			"C:/PROGRA~1/EASYPH~1.1VC/datalocalweb/task/CodeIgniter/application",
+			"C:/PROGRA~1/EASYPH~1.1VC/data/localweb/task/bootstrap",
+			"\\",
+			"<?php echo base_url(); ?>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			" ",
+			"/",
+			"C:/",
+			"C:/Users/juarozo/Documents/bootstrap",
+			"/",
+			"C:\\PROGRA~1\\EASYPH~1.1VC\\data\\localweb\\task\\bootstrap"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/codigo/model/produto.php",
+					"settings":
+					{
+						"buffer_size": 2331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2325,
+								2325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1060.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/codigo/testes/ProdutoTest.php",
+					"settings":
+					{
+						"buffer_size": 1681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1661,
+								1661
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/produto/scripts/scriptCadastroProduto.js",
+					"settings":
+					{
+						"buffer_size": 4437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4437,
+								4437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/codigo/editarProduto.php",
+					"settings":
+					{
+						"buffer_size": 2429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1364,
+								1364
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/juarozo/composer.json",
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "cadastrar.php",
+					"settings":
+					{
+						"buffer_size": 1797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1244,
+								1244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "relatorio.php",
+					"settings":
+					{
+						"buffer_size": 1739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1079,
+								1079
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/codigo/buscaProdutos.php",
+					"settings":
+					{
+						"buffer_size": 1965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1285,
+								1285
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 166.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/PROGRA~1/EASYPH~1.1VC/data/localweb/produto/scripts/scriptRelatorio.js",
+					"settings":
+					{
+						"buffer_size": 1293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								984,
+								994
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true
+}
